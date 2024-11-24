@@ -1,0 +1,9 @@
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    padding-top: 1000px;
+    background-color: #FAF9F6;
+}
